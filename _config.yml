@@ -58,5 +58,21 @@ plugins:
 back_to_top: true
 back_to_top_text: "Back to top"
 
+# Footer
 footer_content: "Copyright &copy; Since 2023 By Jeongwoo Lee."
+
+# Collection location
+collections_dir: Pages
+
+# Collection assort
+collections:
+  Colle:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    Colle:
+      name: Collections
+
 
