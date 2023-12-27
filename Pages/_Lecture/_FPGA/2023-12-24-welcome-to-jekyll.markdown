@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Code with line numbers
-parent: Colle
+parents: FPGA Contents
+nav_order: 3
 ---
-Post1
+Post3

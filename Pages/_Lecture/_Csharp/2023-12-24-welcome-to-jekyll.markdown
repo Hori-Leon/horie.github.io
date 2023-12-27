@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code with line numbers
-parent: Colle
+parents: Csharp
+nav_order: 3
 ---
-
-Post2
+Post3

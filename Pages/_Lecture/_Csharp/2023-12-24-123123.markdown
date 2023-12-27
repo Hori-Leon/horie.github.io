@@ -1,0 +1,7 @@
+---
+layout: page
+title: "A list of animals"
+nav_order: 2
+---
+
+Post2

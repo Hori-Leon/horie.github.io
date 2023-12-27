@@ -66,13 +66,19 @@ collections_dir: Pages
 
 # Collection assort
 collections:
-  Colle:
-    permalink: "/:collection/:path/"
+  Lecture:
+    permalink: "/Lecture/:name"
+    output: true
+  Miscellaneous:
+    permalink: "Miscellaneous/:name"
     output: true
 
 just_the_docs:
   collections:
-    Colle:
-      name: Collections
+    Lecture:
+      name: Lecture
+    Miscellaneous:
+      name: Miscellaneous
+
 
 

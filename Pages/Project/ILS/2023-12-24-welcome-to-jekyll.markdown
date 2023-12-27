@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Code with line numbers
-parent: Colle
+grand_parent: Project
+parent: ILS
 ---
 Post3
