@@ -22,4 +22,4 @@ EDMS(Electronic Document Management System) : 전자 문서 관리 체계
 <img src="Image/Slide10.JPG" alt="drawing"/>
 <img src="Image/Slide11.JPG" alt="drawing"/>
 
-[See pseudo code for more details.](naver.com)
+[See pseudo code for more details.](https://github.com/HorieYuka/horieyuka.github.io/tree/MainRoot/Pages/Project/EDMS/Pseudo)
