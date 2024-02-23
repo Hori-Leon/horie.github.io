@@ -1,0 +1,14 @@
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\bin\Debug\net8.0\EDMS_Core.exe
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\bin\Debug\net8.0\EDMS_Core.deps.json
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\bin\Debug\net8.0\EDMS_Core.runtimeconfig.json
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\bin\Debug\net8.0\EDMS_Core.dll
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\bin\Debug\net8.0\EDMS_Core.pdb
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\obj\Debug\net8.0\EDMS_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\obj\Debug\net8.0\EDMS_Core.AssemblyInfoInputs.cache
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\obj\Debug\net8.0\EDMS_Core.AssemblyInfo.cs
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\obj\Debug\net8.0\EDMS_Core.csproj.CoreCompileInputs.cache
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\obj\Debug\net8.0\EDMS_Core.dll
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\obj\Debug\net8.0\refint\EDMS_Core.dll
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\obj\Debug\net8.0\EDMS_Core.pdb
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\obj\Debug\net8.0\EDMS_Core.genruntimeconfig.cache
+C:\Users\Horie\source\repos\EDMS_Core\EDMS_Core\obj\Debug\net8.0\ref\EDMS_Core.dll

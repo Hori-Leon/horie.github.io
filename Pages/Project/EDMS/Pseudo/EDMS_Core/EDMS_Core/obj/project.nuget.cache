@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdBhzv8bloJLgwYc7/i+1f3D2agPvMfHEt8lbatn4JLiCCLBEIbHTKLmSrBfDJ85fQhsd/6Ge7GvujqtTDvv3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Horie\\source\\repos\\EDMS_Core\\EDMS_Core\\EDMS_Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Horie\\.nuget\\packages\\ssh.net\\2024.0.0\\ssh.net.2024.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

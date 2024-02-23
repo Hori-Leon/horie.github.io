@@ -5,7 +5,21 @@
 layout: default
 title:  EDMS
 parent: Project
-has_children: true
+has_children: false
 ---
-연계논리계통(ILS)의 Master-Loop Simulator의 S/W를 제작할 때 고민했던 부분을 남겨두는 곳입니다.
-ILS는 원자력 발전소 내 Pheripheral에(팬 동작, 경보 동작 등) 대한 연결된 제어를 담당하는 계통으로, Master Loop Simulator는 Master Cabinet에서 동작하는 루프 신호를 얻어내 그 무결성을 확인하는 장치입니다.
+EDMS(Electronic Document Management System) : 전자 문서 관리 체계
+사내 문서 관리 체계를 만들었을 당시 겪었던 일들 및 현재 Reviewing에 대해 다루고 있습니다.
+
+<img src="Image/Slide1.JPG" alt="drawing"/>
+<img src="Image/Slide2.JPG" alt="drawing"/>
+<img src="Image/Slide3.JPG" alt="drawing"/>
+<img src="Image/Slide4.JPG" alt="drawing"/>
+<img src="Image/Slide5.JPG" alt="drawing"/>
+<img src="Image/Slide6.JPG" alt="drawing"/>
+<img src="Image/Slide7.JPG" alt="drawing"/>
+<img src="Image/Slide8.JPG" alt="drawing"/>
+<img src="Image/Slide9.JPG" alt="drawing"/>
+<img src="Image/Slide10.JPG" alt="drawing"/>
+<img src="Image/Slide11.JPG" alt="drawing"/>
+
+[See pseudo code for more details.](naver.com)
