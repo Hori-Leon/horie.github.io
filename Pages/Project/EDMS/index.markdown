@@ -8,7 +8,7 @@ parent: Project
 has_children: false
 ---
 EDMS(Electronic Document Management System) : 전자 문서 관리 체계
-사내 문서 관리 체계를 만들었을 당시 겪었던 일들 및 현재 Reviewing에 대해 다루고 있습니다.
+사내 문서 관리 체계를 만들었을 당시 겪었던 일들 및 Project Reviewing에 대해 다루고 있습니다.
 
 <img src="Image/Slide1.JPG" alt="drawing"/>
 <img src="Image/Slide2.JPG" alt="drawing"/>
@@ -17,5 +17,9 @@ EDMS(Electronic Document Management System) : 전자 문서 관리 체계
 <img src="Image/Slide5.JPG" alt="drawing"/>
 <img src="Image/Slide6.JPG" alt="drawing"/>
 <img src="Image/Slide7.JPG" alt="drawing"/>
+<img src="Image/Slide8.JPG" alt="drawing"/>
+<img src="Image/Slide9.JPG" alt="drawing"/>
+<img src="Image/Slide10.JPG" alt="drawing"/>
+<img src="Image/Slide11.JPG" alt="drawing"/>
 
-See official catalogs for more details. [Korean](<../Fissile Inspection/KNF-SF-2020-03.pdf>) / [English](<../Fissile Inspection/eng-KNF-SF-03.pdf>)
+[See pseudo code for more details.](https://github.com/HorieYuka/horieyuka.github.io/tree/MainRoot/Pages/Project/EDMS/Pseudo)
