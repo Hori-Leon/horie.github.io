@@ -3,13 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title:  Fissile Inspection
+title:  Calibrator
 parent: Project
 has_children: false
 ---
-국내 원자력 발전소에서 진행했던 핵연료 검사에 대한 내용을 다루고 있습니다.
-최대한 경험에 비친 내용을 배제하고 실제 사례 및 진행 과정에 대해선 서술을 하지 않았음을 알립니다.
-
+월성 제 2발전소에 납품했었던 방사선원 검출기의 검교정기에 관한 내용을 다루고 있습니다.
 
 <img src="Image/Slide1.JPG" alt="drawing"/>
 <img src="Image/Slide2.JPG" alt="drawing"/>
@@ -19,4 +17,4 @@ has_children: false
 <img src="Image/Slide6.JPG" alt="drawing"/>
 <img src="Image/Slide7.JPG" alt="drawing"/>
 
-See official catalogs for more details. [ [Korean](KNF-SF-2020-03.pdf) / [English](eng-KNF-SF-03.pdf) ]
+See pseudo code for more details. ( [Core](naver.com) / [Universial Library](naver.com)] )
