@@ -7,7 +7,7 @@ title:  Calibrator
 parent: Project
 has_children: false
 ---
-월성 제 2발전소에 납품했었던 방사선원 검출기의 검교정기에 관한 내용을 다루고 있습니다.
+월성 발전소 2호기에 납품했었던 방사선원 검출기의 검교정기에 관한 내용을 다루고 있습니다.
 
 <img src="Image/Slide1.JPG" alt="drawing"/>
 <img src="Image/Slide2.JPG" alt="drawing"/>
@@ -17,4 +17,4 @@ has_children: false
 <img src="Image/Slide6.JPG" alt="drawing"/>
 <img src="Image/Slide7.JPG" alt="drawing"/>
 
-See pseudo code for more details. ( [Core](naver.com) / [Universial Library](naver.com)] )
+See pseudo code for more details. ( [Core](https://github.com/HorieYuka/horieyuka.github.io/tree/MainRoot/Pages/Project/Calibrator/Psuedo) / [Universial Library](https://github.com/HorieYuka/Horibrary) )
