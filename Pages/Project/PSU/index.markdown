@@ -3,9 +3,21 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title:  Powersupply Inspector
+title:  PSU Inspector
 parent: Project
-has_children: true
+has_children: false
 ---
-연계논리계통(ILS)의 Master-Loop Simulator의 S/W를 제작할 때 고민했던 부분을 남겨두는 곳입니다.
-ILS는 원자력 발전소 내 Pheripheral에(팬 동작, 경보 동작 등) 대한 연결된 제어를 담당하는 계통으로, Master Loop Simulator는 Master Cabinet에서 동작하는 루프 신호를 얻어내 그 무결성을 확인하는 장치입니다.
+사내에서 사용한 전원공급기 점검기에 대한 개발 경험을 담고 있습니다.
+
+<img src="Image/Slide1.JPG" alt="drawing"/>
+<img src="Image/Slide2.JPG" alt="drawing"/>
+<img src="Image/Slide3.JPG" alt="drawing"/>
+<img src="Image/Slide4.JPG" alt="drawing"/>
+<img src="Image/Slide5.JPG" alt="drawing"/>
+<img src="Image/Slide6.JPG" alt="drawing"/>
+<img src="Image/Slide7.JPG" alt="drawing"/>
+<img src="Image/Slide8.JPG" alt="drawing"/>
+<img src="Image/Slide9.JPG" alt="drawing"/>
+<
+
+[See code for more details.](https://github.com/HorieYuka/Horibrary)

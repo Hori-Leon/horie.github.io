@@ -7,7 +7,7 @@ title:  EDMS
 parent: Project
 has_children: false
 ---
-EDMS(Electronic Document Management System) : 전자 문서 관리 체계
+EDMS(Electronic Document Management System) : 전자 문서 관리 체계\
 사내 문서 관리 체계를 만들었을 당시 겪었던 일들 및 Project Reviewing에 대해 다루고 있습니다.
 
 <img src="Image/Slide1.JPG" alt="drawing"/>
