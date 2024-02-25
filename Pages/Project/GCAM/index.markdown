@@ -3,13 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title:  ILS
+title:  G-CAM
 parent: Project
 has_children: false
 ---
-연계논리계통(ILS)의 Master-Loop Simulator의 S/W를 제작할 때 고민했던 부분을 남겨두는 곳입니다.\
-ILS는 원자력 발전소 내 Pheripheral에(팬 동작, 경보 동작 등) 대한 연결된 제어를 담당하는 계통으로, Master Loop Simulator는 Master Cabinet에서 동작하는 루프 신호를 얻어내 그 무결성을 확인하는 장치입니다.\
+방사선 영상화 장치 (Gamma-Ray Detector)는 방사능 오염 물질 혹은 오염 지역을 확인할 수 있는 장치로 광학 카메라와 결합해 이를 시각화하는 장치입니다. <br><br>
 
-
-오래전에 진행한 프로젝트이기에, 관련 내용을 정리하는 것이 시간이 걸립니다.\
-부디 양해 부탁드립니다. 신속히 올릴 수 있도록 하겠습니다.\
+오랜 기간을 가지고 만든 작품인 만큼, 관련 이론 및 구현 내용에 대해 정리할 시간이 필요합니다.<br>
+부디 양해 부탁드립니다. 신속히 올릴 수 있도록 하겠습니다.
