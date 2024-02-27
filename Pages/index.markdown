@@ -12,8 +12,8 @@ permalink: /
 <br>
 
 우진엔텍 (2017 ~ 2024) // (6년 8개월) <br>
-  - 방사선 영상 장치의 S/W 개발 ( 2017 ~ 2023 )<br> - 고리 납품<br>
-  - 연계논리계통(ILS) Master-Loop Simulator ( 2020 )<br> - 한빛 납품<br>
+  - G-CAM : 방사선 영상 장치의 S/W 개발 ( 2017 ~ 2023 )<br> - 고리 납품<br>
+  - 연계논리계통(ILS) : Master-Loop Simulator ( 2020 )<br> - 한빛 납품<br>
   - 메타 섬광체 기반 저선량 뇌전용 TOF-PET ( 2020 ) <br>
   - 원자로 건물 격리계통 방사능 루프 교정 장치 ( 2023 )<br> - 월성 납품<br>
   - EDMS (Electronic Document Management System) ( 2022 ~ 2023 )<br>
