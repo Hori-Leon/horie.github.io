@@ -84,4 +84,8 @@ callouts:
   highlight:
     color: blue
 
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
