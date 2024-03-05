@@ -8,7 +8,17 @@ parent: Deep leanring
 has_children: false
 ---
 
-<h1> CED (Convolutional Encode-Decode)</h1>
+# CED (Convolutional Encode-Decode)
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 
 1. 개요
 
