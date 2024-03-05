@@ -21,10 +21,12 @@ has_children: false
 
 ## Semantic Segmentation
 
+{: .v-align-middle}
 <img src="Image/Fig1.PNG"/>
+
 {: .v-align-middle}
 <img src="Image/Fig2.jpeg"/>
-{: .v-align-middle}
+
 
 입력 이미지에서 찾아낸 Class들을 Pixel 단위로 본류해주는 것을 말한다.
 
@@ -32,7 +34,6 @@ has_children: false
 
 ## FCL (Fully Connected Layer)
 
-[FCN에 대한 논문은 다음에서 확인할 수 있다.](Resource/FCN.pdf)
 
 ## FCN (Fully Convolutional Networks)
 

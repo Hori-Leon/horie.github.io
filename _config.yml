@@ -79,5 +79,9 @@ just_the_docs:
     Miscellaneous:
       name: Miscellaneous
 
+# Callouts
+callouts:
+  highlight:
+    color: blue
 
 
