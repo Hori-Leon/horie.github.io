@@ -14,15 +14,14 @@ has_children: false
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+TOC
 {:toc}
 
 ---
 
+## 개요
 
-1. 개요
-
-2. SegNet
+## SegNet
 
 [SegNet에 대한 논문은 다음에서 확인할 수 있다.](Resource/SegNet.pdf)
 
