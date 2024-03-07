@@ -4,8 +4,9 @@
 
 layout: default
 title:  Activate Function
-parent: Deep leanring
-has_children: false
+parent: Machine Learning
+grand_parent: Study
+nav_order: 2
 ---
 
 # Activate Function
@@ -24,11 +25,17 @@ has_children: false
 
  사람도 어떤 현상과 데이터에 대해 확신과 가능성을 제시하듯이, 이런 개념을 추종하는 신경망의 출력도 확신과 가능성의 출력으로 나타낼 수 있다는 생각으로 접근하면 이해하기 편하다. 예를 들어 출력값에 대한 수치가 높으면 높을 수록 Highly predictable한 값이라고 생각할 수 있을 것이다.
 
- 이 문단의 설명에는 [CS231n의 Fei-Fei, Krishna, Xu의 슬라이드](Resource/CS231n.pdf)를 이용할 것이다.
+ 이 문단의 설명에는 [CS231n의 Fei-Fei, Krishna, Xu의 슬라이드](Resource/CS231n.pdf)를 참고한다.
 
- ## 로지스틱 회귀(Logistic Regression)
+---
 
- ## Rectified Linear Unit ( 비선형 연산 )
+## 로지스틱 회귀(Logistic Regression)
+
+---
+
+## 활성 함수 종류
+
+### Rectified Linear Unit ( 비선형 연산 )
 
 {: .v-align-middle}
 <img src="Image/Fig3.jpg"/>

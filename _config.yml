@@ -63,22 +63,6 @@ footer_content: "Copyright &copy; Since 2023 By Jeongwoo Lee."
 # Collection location
 collections_dir: Pages
 
-# Collection assort
-collections:
-  Lecture:
-    permalink: "/Lecture/:name"
-    output: true
-  Miscellaneous:
-    permalink: "Miscellaneous/:name"
-    output: true
-
-just_the_docs:
-  collections:
-    Lecture:
-      name: Lecture
-    Miscellaneous:
-      name: Miscellaneous
-
 # Callouts
 callouts:
   highlight:

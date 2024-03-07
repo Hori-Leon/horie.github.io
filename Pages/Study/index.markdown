@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title:  Deep leanring
-nav_order: 3
+title:  Study
+nav_order: 2
 has_children: true
+
 ---
-Deep learning에 대해 설명하는 공간입니다.
+개인적인 공부를 위해 서술하는 공간입니다.

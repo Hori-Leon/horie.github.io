@@ -4,8 +4,9 @@
 
 layout: default
 title:  CED (Conv'al Enc-Dec)
-parent: Deep leanring
-has_children: false
+parent: Machine Learning
+grand_parent: Study
+nav_order: 3
 ---
 
 # CED (Convolutional Encode-Decode)
