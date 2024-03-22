@@ -11,7 +11,7 @@ permalink: /
 서울과학기술대학교 전기정보공학과 학사 졸업
 <br>
 
-우진엔텍 (2017 ~ 2024) // (6년 8개월) <br>
+우진엔텍 (2017 ~ 2024) : 6년 8개월 <br>
   - G-CAM : 방사선 영상 장치의 S/W 개발 ( 2017 ~ 2023 )<br> - 고리 납품<br>
   - 연계논리계통(ILS) : Master-Loop Simulator ( 2020 )<br> - 한빛 납품<br>
   - 메타 섬광체 기반 저선량 뇌전용 TOF-PET ( 2020 ) <br>
@@ -19,3 +19,6 @@ permalink: /
   - EDMS (Electronic Document Management System) ( 2022 ~ 2023 )<br>
   - 전원공급기 정밀 진단 장비 ( 2022 ~ 2023 ) <br><br>
   - 원자력 발전소 정비 업무 (전자 카드 점검 / 손상 핵연료 검출)
+
+<br><br>
+[GitHub는 여기서 확인하실 수 있습니다.](https://github.com/HorieYuka/Horibrary)
