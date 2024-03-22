@@ -29,12 +29,19 @@ nav_order: 2
 
 ---
 
-## 로지스틱 회귀(Logistic Regression)
+## 선형 회귀분석(Linear Regression)
 
 ### 정의
-로지스틱 회귀는 결과값이 2가지만 있을 때, 이에 대한 가능성을 예측하기 위해 사용하는 통계 기법이다.
-Wikipedia에서는 굉장히 어렵게 설명되어 있는데 이를 쉽게 풀어보려고 한다.
 
+{: .v-align-middle}
+<img src="Image/Fig9.PNG"/>
+
+선형 회귀분석은 데이터의 결과가 선형적인 추세를 보일 때 사용하는 분석 모델로, 입력 값(x)에 대해 출력 값(y)을 예측한다.
+
+## 로지스틱 회귀분석(Logistic Regression)
+
+### 정의
+선형 회귀분석과는 다르게 데이터의 결과값들이 선형성을 가지지 않고 참 혹은 거짓처럼 이분법적인 분포를 가질 때 사용한다. Wikipedia에서는 굉장히 어렵게 설명되어 있는데 이를 쉽게 풀어보려고 한다.
 
 먼저, 비만과 몸무게의 상관관계에 대한 자료가 있다고 가정하자.
 
@@ -51,14 +58,22 @@ Wikipedia에서는 굉장히 어렵게 설명되어 있는데 이를 쉽게 풀�
 이를 겹쳐보자.
 
 {: .v-align-middle}
-<img src="Image/Fig6.png"/>
+<img src="Image/Fig6.PNG"/>
+
 {: .v-align-middle}
-<img src="Image/Fig7.png"/>
+<img src="Image/Fig7.PNG"/>
 
 앞서 정의한 것처럼, 어떤 통계값에 대해 특정 결과의 값을 가능성을 함수로서 표현한 것이 되겠다.
-예를 들어 x값이 90이라고 가정하였을때, 빨간 선의 y값이 그 가능성이 되는 것이다.
+예를 들어 x값이 90이라고 가정하였을때, 빨간 선의 y값이 그 가능성을 수치화 한 것이라 볼 수 있다.
 
 ### 오즈(Odds)의 이해
+
+{: .v-align-middle}
+<img src="Image/Fig11.PNG"/>
+
+Odds는 실패확률 대비 성공확률을 수치로 나타낸 것을 얘기한다. 만일 Odds가 5이라면, 성공확률이 실패확률의 5배라는 의미이다.
+
+### 최대 우도(Maximum Likehood)와 그래프 맞춤(Fitting)
 
 ---
 
@@ -69,8 +84,6 @@ Wikipedia에서는 굉장히 어렵게 설명되어 있는데 이를 쉽게 풀�
 좋은 활성 함수의 조건은 다음과 같이 나타낼 수 있다.
 
 * Zero-Centered : 활성 함수 중앙값이 0이여야 한다.
-중앙값이 0이여
-
 * Symmetric : 활성 함수가 대칭성이 있어야 한다.
 
 ### Rectified Linear Unit ( 비선형 연산 )
