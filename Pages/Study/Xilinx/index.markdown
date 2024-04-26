@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title:  Study
-nav_order: 2
+title:  Xilinx
+parent: Study
 has_children: true
-
 ---
-개인적인 공부를 위해 서술하는 공간입니다.
+Xilinx에 관한 내용을 작성합니다.
