@@ -7,7 +7,7 @@ title:  IMAPI2
 parent: Libraries
 has_children: false
 ---
-{: .highlight }
+
 ```CSharp
     static class IMAPI
     {

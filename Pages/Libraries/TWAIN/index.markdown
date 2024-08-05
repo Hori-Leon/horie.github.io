@@ -7,7 +7,7 @@ title:  TWAIN
 parent: Libraries
 has_children: false
 ---
-{: .highlight }
+
 ```CSharp
    static class TWAIN
     {
