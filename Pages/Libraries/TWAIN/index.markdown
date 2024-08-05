@@ -7,11 +7,12 @@ title:  TWAIN
 parent: Libraries
 has_children: false
 ---
-```CS
+{: .highlight }
+```CSharp
    static class TWAIN
     {
         // TWAIN Properties
-        public static string SavePath = "C:\\AppSimpleTWAIN";
+        public static string SavePath = "C:\\TWAINPATH";
         public static event EventHandler EvtGetScannedImage;
         static TwainSession TwainSess;
         static IntPtr WindowHandle;
@@ -117,9 +118,11 @@ has_children: false
         }
     
     }
-    '''
+  ```
 
-    '''CSharp
+
+{: .highlight }
+```CSharp
     [ObservableObject]
     partial class ModelDataSource
     {
