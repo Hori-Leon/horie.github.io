@@ -7,7 +7,7 @@ title:  IMAPI2
 parent: Libraries
 has_children: false
 ---
-'''CSharp
+```CSharp
     static class IMAPI
     {
         [DllImport("shlwapi.dll", CharSet = CharSet.Unicode, ExactSpelling = true, PreserveSig = false, EntryPoint = "SHCreateStreamOnFileW")]
@@ -104,4 +104,4 @@ has_children: false
             EvtFormatEraseUpdate.Invoke(elapsedSeconds * 100 / estimatedTotalSeconds, new EventArgs());
         }
     }
-    '''
+```

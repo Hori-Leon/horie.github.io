@@ -7,7 +7,7 @@ title:  TWAIN
 parent: Libraries
 has_children: false
 ---
-'''CSharp
+```CSharp
    static class TWAIN
     {
         // TWAIN Properties
@@ -144,4 +144,4 @@ has_children: false
         public void Enable(IntPtr W_Handle)
             => DS.Enable(SourceEnableMode.NoUI, false, W_Handle);
     }
-    '''
+```
