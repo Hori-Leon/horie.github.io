@@ -7,4 +7,5 @@ title:  Selectable slot
 parent: UI Component
 has_children: false
 ---
-<video src="Video/Demo.MP4" type="video/mp4" />
+<iframe width="420" height="315" src="https://youtube.com/embed/5WDKDsCVU24" frameborder="0" allowfullscreen></iframe>
+{: .flex-justify-between}
