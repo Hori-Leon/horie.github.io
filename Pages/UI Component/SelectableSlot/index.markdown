@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title:  Image displaying Dialog
+title:  Selectable slot
 parent: UI Component
 has_children: false
 ---

@@ -7,7 +7,7 @@ title:  TWAIN
 parent: Libraries
 has_children: false
 ---
-```CSharp
+```CS
    static class TWAIN
     {
         // TWAIN Properties
