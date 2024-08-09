@@ -11,4 +11,18 @@ has_children: false
 {: .v-align-middle}
 
 fo-DICOM을 이용해 C-Command를 사용할 수 있는 QueryServer와, 그 Application의 시연 동영상입니다.
-자세한 내용은 내용이 많아 차후에 추가하도록 하겠습니다.
+
+
+<img src="Image/Slide1.JPG" alt="drawing"/>
+<img src="Image/Slide2.JPG" alt="drawing"/>
+<img src="Image/Slide3.JPG" alt="drawing"/>
+<img src="Image/Slide4.JPG" alt="drawing"/>
+<img src="Image/Slide5.JPG" alt="drawing"/>
+<img src="Image/Slide6.JPG" alt="drawing"/>
+<img src="Image/Slide7.JPG" alt="drawing"/>
+<img src="Image/Slide8.JPG" alt="drawing"/>
+<img src="Image/Slide9.JPG" alt="drawing"/>
+<img src="Image/Slide10.JPG" alt="drawing"/>
+<img src="Image/Slide11.JPG" alt="drawing"/>
+<img src="Image/Slide12.JPG" alt="drawing"/>
+<img src="Image/Slide13.JPG" alt="drawing"/>
