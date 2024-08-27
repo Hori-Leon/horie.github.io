@@ -8,6 +8,13 @@ parent: Libraries
 has_children: false
 ---
 
+# IMAPI2
+IMAPI2를 사용하여 CD-ROM R/W 기능을 따로 구현하였습니다.
+
+
+
+## Code
+{% highlight markdown %}
 ```CSharp
     static class IMAPI
     {
