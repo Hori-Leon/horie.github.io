@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title:  Selectable slot
+title: Volume Rendering
 parent: UI Component
 has_children: false
 ---
